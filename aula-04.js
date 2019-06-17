@@ -19,9 +19,16 @@ console.log('Truthy');
 console.log('Representam true: ');
 console.log('Todo restante');
 
+console.log();
+
 // Operador Ternário
 console.log('Ternário');
+console.log('condição ? se true : se false');
 console.log('--------------');
 
 console.log();
 
+var verdadeiro = true;
+console.log('Verdadeiro: ', verdadeiro);
+console.log(`verdadeiro === true ? Sim : Não `, verdadeiro === true ? 'Sim': 'Não');
+console.log(`verdadeiro === false ? Sim : Não `, verdadeiro === false ? 'Sim': 'Não');
