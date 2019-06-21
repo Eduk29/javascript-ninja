@@ -114,5 +114,22 @@ console.log('JSON: ', json);
 console.log('Convertendo de JSON para Objeto...');
 var jsonObj = JSON.parse(json);
 console.log('Objeto: ', jsonObj);
+console.log();
 
+console.log('Manipulações com Arrays');
+console.log("-----------------------");
+console.log();
+var array = ['primeiro', 'segundo', 'terceiro', 'quarto'];
+console.log('Array: ', array);
 
+console.log('Array.join()');
+console.log('array.join()', array.join(', '));
+console.log();
+
+console.log('Array.reverse()');
+console.log('array.reverse()', array.reverse());
+console.log();
+
+console.log('Array.sort()');
+console.log('array.sort()', array.sort());
+console.log();
