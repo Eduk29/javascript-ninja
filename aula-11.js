@@ -1,6 +1,3 @@
-// Atributos
-var counter = 1;
-
 // Loops 
 console.log('Loops');
 console.log('-----');
@@ -9,6 +6,7 @@ console.log();
 console.log('Do-While');
 console.log('--------');
 console.log('Exemplo 1: ');
+var counter = 1;
 console.log('Counter: ', counter);
 console.log('Condição: counter < 1');
 do {
