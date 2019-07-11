@@ -88,7 +88,7 @@ console.log("---------");
 })();
 console.log();
 
-// Node Value
+// Node Name
 console.log("NodeName");
 console.log("--------");
 (function(){
