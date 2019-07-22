@@ -29,7 +29,7 @@ console.log('----');
 })();
 
 
-// readystate;//
+// readystate;
 (function() {
     console.log('readystate');
     console.log('----------');
